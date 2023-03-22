@@ -1,4 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sem serifa;
+}
+
 header {
     background-color: #424e61;
     color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width: 30%;
+    height: 30%;
+}
+.cabeçalho-imagem{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+
+}
+
+.cabeçalho-imagem{
+width: 30%;
+height: 30%;
+}
+.cones{
+    background-image: linear-gradient(#637cb3); 
+    color: #637cb3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
