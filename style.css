@@ -16,7 +16,7 @@ header {
 }
 
 .cabeçalho-imagem{
-    width: 30%;
+    width: 80%;
     height: 30%;
 }
 .cabeçalho-imagem{
@@ -27,8 +27,8 @@ header {
 }
 
 .cabeçalho-imagem{
-width: 30%;
-height: 30%;
+width: 80%;
+height: 90%;
 }
 .cones{
     background-image: linear-gradient(#637cb3); 
