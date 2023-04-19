@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabeçalho {
+    background-color: bisque;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 24px;
+}
+
+.floricultura-imagem{
+    width: 25%;
+}
+
+.floricultura{
+    background-image:linear-gradient( bisque, rgb(199, 155, 100));
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.floricultura-div-conteúdo{
+    width: 35%;
+}
+.floricultura-título{
+    padding: 24px 0;
+}
+
+.flores-imagem{
+    width: 120px; ;
+}
+
+.flores-ícones{
+    width: 24px;
+}
+
+.Flores-div{
+    text-align: center;
+}
+
+.flores-título{
+    text-align: center;
+    padding: 30px 0;
+}
+
+.flores-todas{
+    display: grid;
+    grid-template-columns: 20% 20% 20% ;
+}
+
+.rodapé{
+    background-color: bisque;
+    text-align: center;
+}
+
+.rodapé-imagem{
+    height: 100px;
+    padding: 12px 0;
+}
